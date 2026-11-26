@@ -1,0 +1,7 @@
+# OWON SPE6103 Power Supply Controller -- Python Dependencies
+
+# Core serial transport dependency
+pyserial>=3.5
+
+# Development / unit testing
+pytest>=7.0
